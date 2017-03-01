@@ -10,6 +10,6 @@ WatchIT - watch movies in your phone
 ## Config File
 ###### [*] Change The MongoDb URL to your address, Create in your MongoDb, collation named "Movies"
 
-![alt tag](https://raw.githubusercontent.com/avramit/WatchIT/master/screenshot1.png)
-![alt tag](https://raw.githubusercontent.com/avramit/WatchIT/master/screenshot2.png)
-![alt tag](https://raw.githubusercontent.com/avramit/WatchIT/master/screenshot3.png)
+![alt tag](https://raw.githubusercontent.com/avramit/WatchIT/master/Screenshot1.png)
+![alt tag](https://raw.githubusercontent.com/avramit/WatchIT/master/Screenshot2.png)
+![alt tag](https://raw.githubusercontent.com/avramit/WatchIT/master/Screenshot3.png)
