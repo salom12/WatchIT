@@ -8,7 +8,7 @@ var fs = require('fs');
 
 router.use(session(
 {
-    secret: '470e76c1-520b-4704-be6b-55bc9068ed13',
+    secret: '470e76c1-520b-4704-be6b-3453453453',
     resave: true,
     saveUninitialized: true
 }));
