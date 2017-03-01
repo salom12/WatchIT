@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WatchIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="ad_banner">ca-app-pub-0035750972983802/8785894559</string>
+
+</resources>

@@ -1,0 +1,24 @@
+{
+  "name": "WatchIT",
+  "version": "1.0.0",
+  "description": "No",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.9.4"
+  },
+  "author": "avr.amit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-session": "^1.15.0",
+    "fs": "0.0.1-security",
+    "http-auth": "^3.1.1",
+    "imdb": "^1.1.0",
+    "mongojs": "^2.4.0",
+    "request": "^2.79.0"
+  }
+}
