@@ -1,6 +1,8 @@
 # WatchIT
-WatchIT - watch movies in your phone
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ARVABYAUX3NPC)
+
+WatchIT - watch movies in your phone
+
 
 ## Endpoints
 ###### [*] /admin
